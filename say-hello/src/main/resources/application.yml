@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: say-hello
+
+server:
+  port: 8090
+
+instance:
+  id: "DAAP-INSTANCE_1"
